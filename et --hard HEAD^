@@ -1,0 +1,57 @@
+[33mcommit 0df5a7342faafe5cfbb195917d24928760215b1b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mking[m[33m)[m
+Author: NOUBIGA_thierry <thierry.noubigatchouate@ynov.com>
+Date:   Thu Jan 30 12:58:03 2025 +0100
+
+    Please enter the commit message for your changes. Lines starting
+
+[33mcommit 53800e65c7a20a479bf330f6e137eef21f756644[m[33m ([m[1;32mmain[m[33m)[m
+Author: NOUBIGA_thierry <thierry.noubigatchouate@ynov.com>
+Date:   Thu Jan 30 12:44:20 2025 +0100
+
+    creation de la branche master
+
+[33mcommit 8c30527763e238628280bc47158134a1bd6729ce[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: e3af3fc c203fc5
+Author: NOUBIGA_thierry <thierry.noubigatchouate@ynov.com>
+Date:   Wed Jan 29 00:25:43 2025 +0100
+
+    Merge branch 'main' of github.com:2001-MrTN/-LEARN
+
+[33mcommit e3af3fc2676c60fea0fbf7bc859ce310e768b352[m
+Author: NOUBIGA_thierry <thierry.noubigatchouate@ynov.com>
+Date:   Wed Jan 29 00:23:02 2025 +0100
+
+    test de titre h2
+
+[33mcommit c203fc5bc384e5804cac2e49d4d1bcef15f8aeb0[m
+Merge: 45b8644 7113f0d
+Author: Thierry NOUBIGA <thierry.noubigatchouate@ynov.com>
+Date:   Wed Jan 29 00:13:31 2025 +0100
+
+    Merge pull request #1 from 2001-MrTN/nana
+    
+    clone de la branche main
+
+[33mcommit 7113f0d304d3fd19c8724d68648b066eaf6a6939[m
+Author: NOUBIGA_thierry <thierry.noubigatchouate@ynov.com>
+Date:   Tue Jan 28 23:30:43 2025 +0100
+
+    clone de la branche main
+
+[33mcommit 45b8644306fce627a7422f5cf6695f84a9414a29[m
+Author: NOUBIGA_thierry <thierry.noubigatchouate@ynov.com>
+Date:   Tue Jan 28 23:16:08 2025 +0100
+
+    commande helloworld
+
+[33mcommit 8632f9cb7652ba8475e9692ccf25ce94301c6261[m
+Author: NOUBIGA_thierry <thierry.noubigatchouate@ynov.com>
+Date:   Tue Jan 28 21:54:57 2025 +0100
+
+    envoie du fichier portfolio.html
+
+[33mcommit 4001ebfbc823b919cfc49eff4b98af636c539711[m
+Author: NOUBIGA_thierry <thierry.noubigatchouate@ynov.com>
+Date:   Tue Jan 28 21:48:04 2025 +0100
+
+    Ajout du fichier interface_graphique.py
