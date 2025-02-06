@@ -36,5 +36,15 @@ y_button.pack(pady=25, padx=25)
 #ajouter le frame
 frame.pack(side=TOP, padx=10, pady=10)
 
+#creer une barre de menu
+menu_bar = Menu(windows)
+#creer un premier menu
+file_menu = Menu(menu_bar, tearoff=0)
+file_menu.add_command(label="Valeurs Capteurs", command=open_link_youtube)
+file_menu.add_command(label="Quitter", command=windows.quit)
+menu_bar.add_cascade(label="Fichier", menu=file_menu)
+#configurer la fenetre pour ajouter cette menu bar
+windows.config(menu=menu_bar)
+
 #afficher
 windows.mainloop()
